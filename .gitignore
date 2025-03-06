@@ -1,4 +1,4 @@
 public/
 resources/_gen/
 .hugo_build.lock
-static/audio/*.mp3 
+# static/audio/*.mp3 
