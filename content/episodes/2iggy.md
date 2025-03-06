@@ -1,6 +1,8 @@
 +++
-date = '2025-03-06T12:27:08Z'
-draft = true
-title = '2iggy'
-audio= "2.Iggy Azalea - Work.mp3"
+date = '2025-03-06T12:26:54Z'
+draft = false
+title = 'iggy'
+audio = "2.iggy.mp3"
+duration = "10:00"
+length = "1024000"
 +++
