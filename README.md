@@ -31,11 +31,11 @@ A self-hosted podcast system built with Hugo, featuring a futuristic cyberpunk t
 3. Edit the new file in `content/episodes/` with your episode details:
    ```yaml
    ---
-   title: "Your Episode Title"
-   date: YYYY-MM-DD
-   description: "Episode description"
-   audio: "your-audio-file.mp3"
-   duration: "MM:SS"
+   title= "Your Episode Title"
+   date= YYYY-MM-DD
+   description= "Episode description"
+   audio= "your-audio-file.mp3"
+   duration= "MM:SS"
    ---
    ```
 
@@ -55,6 +55,7 @@ A self-hosted podcast system built with Hugo, featuring a futuristic cyberpunk t
 ## Deployment
 
 1. Run `hugo` to build the site
+1.1 Run `hugo server -D`
 2. Deploy the `public` directory to your web server
 
 ## License
