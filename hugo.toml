@@ -1,6 +1,6 @@
 baseURL = 'https://nleitao.github.io/internal_podcast/'
 languageCode = 'en-us'
-title = 'CyberPod'
+title = 'NPod'
 theme = 'cyberpod'
 
 [params]
