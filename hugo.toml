@@ -1,0 +1,24 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'CyberPod'
+theme = 'cyberpod'
+
+[params]
+  description = "My Personal Podcast Feed"
+  author = "Your Name"
+  copyright = "© 2024"
+  podcastOwner = "Your Name"
+  podcastEmail = "your.email@example.com"
+  
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+  
+[mediaTypes]
+  [mediaTypes."application/rss+xml"]
+    suffixes = ["xml"]
+
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss+xml"
+    baseName = "feed"

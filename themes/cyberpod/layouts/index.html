@@ -1,0 +1,38 @@
+{{ define "main" }}
+<div class="space-y-20">
+    <!-- Hero Section -->
+    <section class="text-center py-20">
+        <h1 class="text-6xl font-bold mb-6 gradient-text">{{ .Site.Title }}</h1>
+        <p class="text-xl text-gray-300 max-w-2xl mx-auto">{{ .Site.Params.description }}</p>
+        <a href="/episodes" class="mt-8 inline-block px-8 py-3 cyber-border rounded-lg hover:bg-blue-500/20 transition-all">
+            Listen Now
+        </a>
+    </section>
+
+    <!-- Latest Episodes -->
+    <section class="cyber-card p-8">
+        <h2 class="text-3xl font-bold mb-8 neon-text">Latest Episodes</h2>
+        <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+            {{ range first 6 (where .Site.RegularPages "Section" "episodes") }}
+            <article class="cyber-card p-6 hover:scale-105 transition-transform">
+                <h3 class="text-xl font-semibold mb-2">{{ .Title }}</h3>
+                <p class="text-gray-400 mb-4">{{ .Description }}</p>
+                <div class="flex justify-between items-center">
+                    <span class="text-sm text-gray-500">{{ .Date.Format "Jan 2, 2006" }}</span>
+                    <a href="{{ .Permalink }}" class="text-blue-400 hover:text-blue-300">Listen →</a>
+                </div>
+            </article>
+            {{ end }}
+        </div>
+    </section>
+
+    <!-- Subscribe Section -->
+    <section class="text-center py-16">
+        <h2 class="text-3xl font-bold mb-6 neon-text">Subscribe to the Feed</h2>
+        <p class="text-gray-300 mb-8">Never miss an episode - subscribe to the RSS feed</p>
+        <a href="{{ "feed.xml" | absURL }}" class="cyber-border px-8 py-3 rounded-lg hover:bg-blue-500/20 transition-all">
+            RSS Feed
+        </a>
+    </section>
+</div>
+{{ end }} 
