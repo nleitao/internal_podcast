@@ -39,6 +39,14 @@ A self-hosted podcast system built with Hugo, featuring a futuristic cyberpunk t
    ---
    ```
 
+
+
+## Deployment
+
+1. Run `hugo` to build the site
+1.1 Run `hugo server -D`
+2. Deploy the `public` directory to your web server
+
 ## Accessing Your Podcast
 
 - Web Interface: http://localhost:1313 (when running locally)
@@ -51,13 +59,3 @@ A self-hosted podcast system built with Hugo, featuring a futuristic cyberpunk t
 - Mobile-responsive design
 - Audio player for each episode
 - Episode show notes support
-
-## Deployment
-
-1. Run `hugo` to build the site
-1.1 Run `hugo server -D`
-2. Deploy the `public` directory to your web server
-
-## License
-
-MIT 
