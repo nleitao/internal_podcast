@@ -1,49 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-    <title>NPod</title>
-    <link>https://github.com/nleitao/internal_podcast/public/</link>
-    <description>My personal podcast feed</description>
+    <title>NPod2</title>
+    <link>https://nleitao.github.io/internal_podcast/public/</link>
+    <description>My personal podcast feed2</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Jul 2025 19:13:03 -0000 </lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 19:58:21 -0000 </lastBuildDate>
     <managingEditor>your@email.com (Your Name)</managingEditor>
     
         <item>
             <title>1.bitcoinwhitepaper</title>
-            <enclosure url="https://github.com/nleitao/internal_podcast/public/others/1.bitcoinwhitepaper.mp3" length="17934284" type="audio/mpeg"/>
-            <guid>https://github.com/nleitao/internal_podcast/public/others/1.bitcoinwhitepaper.mp3</guid>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/others/1.bitcoinwhitepaper.mp3" length="17934284" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/others/1.bitcoinwhitepaper.mp3</guid>
             <pubDate>Wed, 05 Mar 2025 11:26:45 -0000</pubDate>
             <description>1.bitcoinwhitepaper</description>
         </item>
         
         <item>
             <title>4. Class 1.Whats Happened to Income and Wealth by UC Berkeley Professor Reich</title>
-            <enclosure url="https://github.com/nleitao/internal_podcast/public/course.wealth/4. Class 1.Whats Happened to Income and Wealth by UC Berkeley Professor Reich.mp3" length="46171820" type="audio/mpeg"/>
-            <guid>https://github.com/nleitao/internal_podcast/public/course.wealth/4. Class 1.Whats Happened to Income and Wealth by UC Berkeley Professor Reich.mp3</guid>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/course.wealth/4. Class 1.Whats Happened to Income and Wealth by UC Berkeley Professor Reich.mp3" length="46171820" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/course.wealth/4. Class 1.Whats Happened to Income and Wealth by UC Berkeley Professor Reich.mp3</guid>
             <pubDate>Mon, 17 Jul 2023 16:31:34 -0000</pubDate>
             <description>4. Class 1.Whats Happened to Income and Wealth by UC Berkeley Professor Reich</description>
         </item>
         
         <item>
+            <title>9. Procrastination-_4caP_nU71o</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/jocko_psy_war/9. Procrastination-_4caP_nU71o.mp3" length="1009074" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/jocko_psy_war/9. Procrastination-_4caP_nU71o.mp3</guid>
+            <pubDate>Wed, 11 Sep 2019 03:04:06 -0000</pubDate>
+            <description>9. Procrastination-_4caP_nU71o</description>
+        </item>
+        
+        <item>
+            <title>8. Snack Time - Sugar Coated Lies-SYYX3DlL2oU</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/jocko_psy_war/8. Snack Time - Sugar Coated Lies-SYYX3DlL2oU.mp3" length="1559077" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/jocko_psy_war/8. Snack Time - Sugar Coated Lies-SYYX3DlL2oU.mp3</guid>
+            <pubDate>Thu, 15 Aug 2019 21:05:26 -0000</pubDate>
+            <description>8. Snack Time - Sugar Coated Lies-SYYX3DlL2oU</description>
+        </item>
+        
+        <item>
+            <title>7. Workout, Pt. 2 (Attack the Wall)-5ipmvi530yw</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/jocko_psy_war/7. Workout, Pt. 2 (Attack the Wall)-5ipmvi530yw.mp3" length="1204402" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/jocko_psy_war/7. Workout, Pt. 2 (Attack the Wall)-5ipmvi530yw.mp3</guid>
+            <pubDate>Thu, 15 Aug 2019 20:36:22 -0000</pubDate>
+            <description>7. Workout, Pt. 2 (Attack the Wall)-5ipmvi530yw</description>
+        </item>
+        
+        <item>
+            <title>6. Workout, Pt. 1 (Through the Threshold)-t2M7u3Zh-gE</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/jocko_psy_war/6. Workout, Pt. 1 (Through the Threshold)-t2M7u3Zh-gE.mp3" length="1251938" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/jocko_psy_war/6. Workout, Pt. 1 (Through the Threshold)-t2M7u3Zh-gE.mp3</guid>
+            <pubDate>Thu, 15 Aug 2019 21:34:26 -0000</pubDate>
+            <description>6. Workout, Pt. 1 (Through the Threshold)-t2M7u3Zh-gE</description>
+        </item>
+        
+        <item>
+            <title>5. Get to the Gym, Pt. 2 (No Excuses)--9CwGT6DarM</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/jocko_psy_war/5. Get to the Gym, Pt. 2 (No Excuses)--9CwGT6DarM.mp3" length="928533" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/jocko_psy_war/5. Get to the Gym, Pt. 2 (No Excuses)--9CwGT6DarM.mp3</guid>
+            <pubDate>Thu, 15 Aug 2019 20:36:10 -0000</pubDate>
+            <description>5. Get to the Gym, Pt. 2 (No Excuses)--9CwGT6DarM</description>
+        </item>
+        
+        <item>
+            <title>4. Get to the Gym-LSbrKS31jxA</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/jocko_psy_war/4. Get to the Gym-LSbrKS31jxA.mp3" length="1205960" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/jocko_psy_war/4. Get to the Gym-LSbrKS31jxA.mp3</guid>
+            <pubDate>Thu, 15 Aug 2019 20:54:40 -0000</pubDate>
+            <description>4. Get to the Gym-LSbrKS31jxA</description>
+        </item>
+        
+        <item>
+            <title>3. Wake Up and Move Forward-H4gfWoJO4qc</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/jocko_psy_war/3. Wake Up and Move Forward-H4gfWoJO4qc.mp3" length="835389" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/jocko_psy_war/3. Wake Up and Move Forward-H4gfWoJO4qc.mp3</guid>
+            <pubDate>Thu, 15 Aug 2019 20:51:02 -0000</pubDate>
+            <description>3. Wake Up and Move Forward-H4gfWoJO4qc</description>
+        </item>
+        
+        <item>
+            <title>2. Wake Up, Pt. 2-HiWY0o-gyyU</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/jocko_psy_war/2. Wake Up, Pt. 2-HiWY0o-gyyU.mp3" length="1042206" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/jocko_psy_war/2. Wake Up, Pt. 2-HiWY0o-gyyU.mp3</guid>
+            <pubDate>Thu, 15 Aug 2019 20:53:38 -0000</pubDate>
+            <description>2. Wake Up, Pt. 2-HiWY0o-gyyU</description>
+        </item>
+        
+        <item>
+            <title>14. Where Does Discipline Come From-pjvMI6S-Rus</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/jocko_psy_war/14. Where Does Discipline Come From-pjvMI6S-Rus.mp3" length="1182287" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/jocko_psy_war/14. Where Does Discipline Come From-pjvMI6S-Rus.mp3</guid>
+            <pubDate>Thu, 15 Aug 2019 21:37:22 -0000</pubDate>
+            <description>14. Where Does Discipline Come From-pjvMI6S-Rus</description>
+        </item>
+        
+        <item>
+            <title>13. Every Day - Every Single Day-iRl1CK6NDiA</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/jocko_psy_war/13. Every Day - Every Single Day-iRl1CK6NDiA.mp3" length="690076" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/jocko_psy_war/13. Every Day - Every Single Day-iRl1CK6NDiA.mp3</guid>
+            <pubDate>Thu, 15 Aug 2019 21:20:50 -0000</pubDate>
+            <description>13. Every Day - Every Single Day-iRl1CK6NDiA</description>
+        </item>
+        
+        <item>
+            <title>12. No More-ZhIiSEbllC0</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/jocko_psy_war/12. No More-ZhIiSEbllC0.mp3" length="741662" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/jocko_psy_war/12. No More-ZhIiSEbllC0.mp3</guid>
+            <pubDate>Thu, 15 Aug 2019 21:09:38 -0000</pubDate>
+            <description>12. No More-ZhIiSEbllC0</description>
+        </item>
+        
+        <item>
+            <title>11. Study - Fill Your Mind-NFzt7xIgvmE</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/jocko_psy_war/11. Study - Fill Your Mind-NFzt7xIgvmE.mp3" length="983351" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/jocko_psy_war/11. Study - Fill Your Mind-NFzt7xIgvmE.mp3</guid>
+            <pubDate>Thu, 15 Aug 2019 20:55:58 -0000</pubDate>
+            <description>11. Study - Fill Your Mind-NFzt7xIgvmE</description>
+        </item>
+        
+        <item>
+            <title>10. Create-4aNXTzthZ_Q</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/jocko_psy_war/10. Create-4aNXTzthZ_Q.mp3" length="1058419" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/jocko_psy_war/10. Create-4aNXTzthZ_Q.mp3</guid>
+            <pubDate>Thu, 15 Aug 2019 20:32:20 -0000</pubDate>
+            <description>10. Create-4aNXTzthZ_Q</description>
+        </item>
+        
+        <item>
+            <title>1. Wake up and Get After It-VS18QVQqApQ</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/jocko_psy_war/1. Wake up and Get After It-VS18QVQqApQ.mp3" length="1145895" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/jocko_psy_war/1. Wake up and Get After It-VS18QVQqApQ.mp3</guid>
+            <pubDate>Thu, 15 Aug 2019 21:09:50 -0000</pubDate>
+            <description>1. Wake up and Get After It-VS18QVQqApQ</description>
+        </item>
+        
+        <item>
             <title>5.public.Buraka Som Sistema - IC19</title>
-            <enclosure url="https://github.com/nleitao/internal_podcast/public/music/5.public.Buraka Som Sistema - IC19.mp3" length="4209405" type="audio/mpeg"/>
-            <guid>https://github.com/nleitao/internal_podcast/public/music/5.public.Buraka Som Sistema - IC19.mp3</guid>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/music/5.public.Buraka Som Sistema - IC19.mp3" length="4209405" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/music/5.public.Buraka Som Sistema - IC19.mp3</guid>
             <pubDate>Sat, 19 Oct 2019 11:41:28 -0000</pubDate>
             <description>5.public.Buraka Som Sistema - IC19</description>
         </item>
         
         <item>
             <title>3.layo and bushwacka - love story - tim deluxe remix</title>
-            <enclosure url="https://github.com/nleitao/internal_podcast/public/music/3.layo and bushwacka - love story - tim deluxe remix.mp3" length="3983639" type="audio/mpeg"/>
-            <guid>https://github.com/nleitao/internal_podcast/public/music/3.layo and bushwacka - love story - tim deluxe remix.mp3</guid>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/music/3.layo and bushwacka - love story - tim deluxe remix.mp3" length="3983639" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/music/3.layo and bushwacka - love story - tim deluxe remix.mp3</guid>
             <pubDate>Thu, 08 May 2014 13:50:16 -0000</pubDate>
             <description>3.layo and bushwacka - love story - tim deluxe remix</description>
         </item>
         
         <item>
             <title>2.Iggy Azalea - Work</title>
-            <enclosure url="https://github.com/nleitao/internal_podcast/public/music/2.Iggy Azalea - Work.mp3" length="3644637" type="audio/mpeg"/>
-            <guid>https://github.com/nleitao/internal_podcast/public/music/2.Iggy Azalea - Work.mp3</guid>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/music/2.Iggy Azalea - Work.mp3" length="3644637" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/music/2.Iggy Azalea - Work.mp3</guid>
             <pubDate>Fri, 14 Sep 2018 08:53:56 -0000</pubDate>
             <description>2.Iggy Azalea - Work</description>
         </item>
