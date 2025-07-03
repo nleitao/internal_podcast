@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>NPod</title>
+    <link>https://github.com/nleitao/internal_podcast/public/</link>
+    <description>My personal podcast feed</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Jul 2025 19:13:03 -0000 </lastBuildDate>
+    <managingEditor>your@email.com (Your Name)</managingEditor>
+    
+        <item>
+            <title>1.bitcoinwhitepaper</title>
+            <enclosure url="https://github.com/nleitao/internal_podcast/public/others/1.bitcoinwhitepaper.mp3" length="17934284" type="audio/mpeg"/>
+            <guid>https://github.com/nleitao/internal_podcast/public/others/1.bitcoinwhitepaper.mp3</guid>
+            <pubDate>Wed, 05 Mar 2025 11:26:45 -0000</pubDate>
+            <description>1.bitcoinwhitepaper</description>
+        </item>
+        
+        <item>
+            <title>4. Class 1.Whats Happened to Income and Wealth by UC Berkeley Professor Reich</title>
+            <enclosure url="https://github.com/nleitao/internal_podcast/public/course.wealth/4. Class 1.Whats Happened to Income and Wealth by UC Berkeley Professor Reich.mp3" length="46171820" type="audio/mpeg"/>
+            <guid>https://github.com/nleitao/internal_podcast/public/course.wealth/4. Class 1.Whats Happened to Income and Wealth by UC Berkeley Professor Reich.mp3</guid>
+            <pubDate>Mon, 17 Jul 2023 16:31:34 -0000</pubDate>
+            <description>4. Class 1.Whats Happened to Income and Wealth by UC Berkeley Professor Reich</description>
+        </item>
+        
+        <item>
+            <title>5.public.Buraka Som Sistema - IC19</title>
+            <enclosure url="https://github.com/nleitao/internal_podcast/public/music/5.public.Buraka Som Sistema - IC19.mp3" length="4209405" type="audio/mpeg"/>
+            <guid>https://github.com/nleitao/internal_podcast/public/music/5.public.Buraka Som Sistema - IC19.mp3</guid>
+            <pubDate>Sat, 19 Oct 2019 11:41:28 -0000</pubDate>
+            <description>5.public.Buraka Som Sistema - IC19</description>
+        </item>
+        
+        <item>
+            <title>3.layo and bushwacka - love story - tim deluxe remix</title>
+            <enclosure url="https://github.com/nleitao/internal_podcast/public/music/3.layo and bushwacka - love story - tim deluxe remix.mp3" length="3983639" type="audio/mpeg"/>
+            <guid>https://github.com/nleitao/internal_podcast/public/music/3.layo and bushwacka - love story - tim deluxe remix.mp3</guid>
+            <pubDate>Thu, 08 May 2014 13:50:16 -0000</pubDate>
+            <description>3.layo and bushwacka - love story - tim deluxe remix</description>
+        </item>
+        
+        <item>
+            <title>2.Iggy Azalea - Work</title>
+            <enclosure url="https://github.com/nleitao/internal_podcast/public/music/2.Iggy Azalea - Work.mp3" length="3644637" type="audio/mpeg"/>
+            <guid>https://github.com/nleitao/internal_podcast/public/music/2.Iggy Azalea - Work.mp3</guid>
+            <pubDate>Fri, 14 Sep 2018 08:53:56 -0000</pubDate>
+            <description>2.Iggy Azalea - Work</description>
+        </item>
+        
+</channel>
+</rss>
