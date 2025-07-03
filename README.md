@@ -32,5 +32,9 @@
 - Edit `BASE_URL` in `generate_rss.py` to match where your files will be hosted (e.g., GitHub Pages, your server, etc.).
 - The generated `feed.xml` can be used in any podcast app that supports RSS feeds.
 
+
+## IF YOU ARE STARTING / CLONING THIS REPO, DONT FORGET TO CONFIG GITHUB PAGES! AFTER YO DO THAT YOU NEED TO USE THE GITHUB.IO LINK TO YOUR .XML FILE
+
+
 ## License
 MIT

@@ -2,10 +2,11 @@ import os
 from email.utils import formatdate
 
 # CONFIGURATION
-BASE_URL = "https://github.com/nleitao/internal_podcast/public/"  # <-- CHANGE THIS to your hosting URL
+# BASE_URL = "https://github.com/nleitao/internal_podcast/public/"  # <-- CHANGE THIS to your hosting URL
+BASE_URL = "https://nleitao.github.io/internal_podcast/public/"
 AUTHOR = "Your Name"
-TITLE = "NPod"
-DESCRIPTION = "My personal podcast feed"
+TITLE = "NPod2"
+DESCRIPTION = "My personal podcast feed2"
 EMAIL = "your@email.com"
 OUTPUT = "feed.xml"  # Output to root folder
 AUDIO_ROOT = "public"
