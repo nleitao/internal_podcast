@@ -1,61 +1,36 @@
-# Personal Podcast Host
+# NPod Podcast Feed Generator (v2)
 
-A self-hosted podcast system built with Hugo, featuring a futuristic cyberpunk theme.
+## How to Use (v2)
 
-## Setup
+1. **Add your MP3 files**
+   - Place your `.mp3` files into any folder or subfolder inside the `public/` directory.
+   - Organize by season, topic, or however you like (e.g., `public/season1/episode1.mp3`).
 
-1. Install Hugo (extended version):
-   ```bash
-   # For Arch Linux/Manjaro
-   sudo pacman -S hugo
-   ```
+2. **Generate the RSS feed**
+   - Run the Python script from the root folder:
+     ```bash
+     python3 generate_rss.py
+     ```
+   - This will create/update `feed.xml` in the root folder, listing all your podcast episodes.
 
-2. Clone this repository:
-   ```bash
-   git clone <your-repo-url>
-   cd <repo-name>
-   ```
+3. **Publish**
+   - Add and commit your changes, then push to GitHub:
+     ```bash
+     git add .
+     git commit -m "Add new episode(s)"
+     git push -u origin main
+     ```
+   - E já está! (That's it!)
 
-3. Start the Hugo server:
-   ```bash
-   hugo server -D
-   ```
+## About
+- This is version 2 of the project. No more Hugo or static site generator.
+- Just drop your MP3s in `public/`, run the script, and your podcast feed is ready.
+- The feed will include all `.mp3` files found in any subfolder of `public/`.
+- The script is located in the root folder.
 
-## Adding New Episodes
+## Configuration
+- Edit `BASE_URL` in `generate_rss.py` to match where your files will be hosted (e.g., GitHub Pages, your server, etc.).
+- The generated `feed.xml` can be used in any podcast app that supports RSS feeds.
 
-1. Place your MP3 file in the `static/audio/` directory
-2. Create a new episode:
-   ```bash
-   hugo new content episodes/your-episode-name.md
-   ```
-3. Edit the new file in `content/episodes/` with your episode details:
-   ```yaml
-   ---
-   title= "Your Episode Title"
-   date= YYYY-MM-DD
-   description= "Episode description"
-   audio= "your-audio-file.mp3"
-   duration= "MM:SS"
-   ---
-   ```
-
-
-
-## Deployment
-
-1. Run `hugo` to build the site
-1.1 Run `hugo server -D`
-2. Deploy the `public` directory to your web server
-
-## Accessing Your Podcast
-
-- Web Interface: http://localhost:1313 (when running locally)
-- RSS Feed: http://localhost:1313/feed.xml
-
-## Features
-
-- Futuristic cyberpunk UI
-- Automatic RSS feed generation
-- Mobile-responsive design
-- Audio player for each episode
-- Episode show notes support
+## License
+MIT
