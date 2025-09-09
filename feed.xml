@@ -5,9 +5,17 @@
     <link>https://nleitao.github.io/internal_podcast/public/</link>
     <description>My personal podcast feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Jul 2025 20:14:06 -0000 </lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 19:41:23 -0000 </lastBuildDate>
     <managingEditor>your@email.com (Your Name)</managingEditor>
     
+        <item>
+            <title>2.How to Speak-MIT-PatrickWinston</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/others/2.How_to_Speak-MIT-PatrickWinston.mp3" length="76395698" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/others/2.How_to_Speak-MIT-PatrickWinston.mp3</guid>
+            <pubDate>Tue, 09 Sep 2025 19:38:13 -0000</pubDate>
+            <description>2.How to Speak-MIT-PatrickWinston</description>
+        </item>
+        
         <item>
             <title>1.bitcoinwhitepaper</title>
             <enclosure url="https://nleitao.github.io/internal_podcast/public/others/1.bitcoinwhitepaper.mp3" length="17934284" type="audio/mpeg"/>
