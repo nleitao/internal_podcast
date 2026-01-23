@@ -22,7 +22,36 @@
      ```
    - E já está! (That's it!)
 
-## About
+## SPLIT BIG FILE INTO 2
+   
+1) Check the duration of the MP3
+ffmpeg -i public/Fuses_e_Vises_-_Joo_Paulo_Oliveira_Sobreiro_Capital.mp3
+
+
+Look for:
+
+Duration: HH:MM:SS.xx
+
+
+Example: 01:12:30 (1 hour 12 minutes).
+
+2) Split into two parts (by time)
+
+Say you want two equal halves and the total is ~72 minutes.
+
+First half (0 → 36 min)
+ffmpeg -i public/Fuses_e_Vises_-_Joo_Paulo_Oliveira_Sobreiro_Capital.mp3 \
+  -t 00:36:00 -c copy \
+  public/Fuses_e_Vises_part1.mp3
+
+Second half (36 min → end)
+ffmpeg -i public/Fuses_e_Vises_-_Joo_Paulo_Oliveira_Sobreiro_Capital.mp3 \
+  -ss 00:36:00 -c copy \
+  public/Fuses_e_Vises_part2.mp3
+   
+   
+   
+   ## About
 - This is version 2 of the project. No more Hugo or static site generator.
 - Just drop your MP3s in `public/`, run the script, and your podcast feed is ready.
 - The feed will include all `.mp3` files found in any subfolder of `public/`.
