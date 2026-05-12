@@ -5,33 +5,9 @@
     <link>https://nleitao.github.io/internal_podcast/public/</link>
     <description>My personal podcast feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Apr 2026 13:21:55 -0000 </lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 11:01:51 -0000 </lastBuildDate>
     <managingEditor>your@email.com (Your Name)</managingEditor>
     
-        <item>
-            <title>5.public.Buraka_Som_Sistema_-_IC19</title>
-            <enclosure url="https://nleitao.github.io/internal_podcast/public/music/5.public.Buraka_Som_Sistema_-_IC19.mp3" length="4209405" type="audio/mpeg"/>
-            <guid>https://nleitao.github.io/internal_podcast/public/music/5.public.Buraka_Som_Sistema_-_IC19.mp3</guid>
-            <pubDate>Fri, 23 Jan 2026 10:48:00 -0000</pubDate>
-            <description>5.public.Buraka_Som_Sistema_-_IC19</description>
-        </item>
-        
-        <item>
-            <title>3.layo_and_bushwacka_-_love_story_-_tim_deluxe_remix</title>
-            <enclosure url="https://nleitao.github.io/internal_podcast/public/music/3.layo_and_bushwacka_-_love_story_-_tim_deluxe_remix.mp3" length="3983639" type="audio/mpeg"/>
-            <guid>https://nleitao.github.io/internal_podcast/public/music/3.layo_and_bushwacka_-_love_story_-_tim_deluxe_remix.mp3</guid>
-            <pubDate>Fri, 23 Jan 2026 10:48:00 -0000</pubDate>
-            <description>3.layo_and_bushwacka_-_love_story_-_tim_deluxe_remix</description>
-        </item>
-        
-        <item>
-            <title>2.Iggy_Azalea_-_Work</title>
-            <enclosure url="https://nleitao.github.io/internal_podcast/public/music/2.Iggy_Azalea_-_Work.mp3" length="3644637" type="audio/mpeg"/>
-            <guid>https://nleitao.github.io/internal_podcast/public/music/2.Iggy_Azalea_-_Work.mp3</guid>
-            <pubDate>Fri, 23 Jan 2026 10:48:00 -0000</pubDate>
-            <description>2.Iggy_Azalea_-_Work</description>
-        </item>
-        
         <item>
             <title>9._Procrastination-_4caP_nU71o</title>
             <enclosure url="https://nleitao.github.io/internal_podcast/public/jocko_psy_war/9._Procrastination-_4caP_nU71o.mp3" length="1009074" type="audio/mpeg"/>
@@ -145,6 +121,102 @@
         </item>
         
         <item>
+            <title>5.public.Buraka_Som_Sistema_-_IC19</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/music/5.public.Buraka_Som_Sistema_-_IC19.mp3" length="4209405" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/music/5.public.Buraka_Som_Sistema_-_IC19.mp3</guid>
+            <pubDate>Fri, 23 Jan 2026 10:48:00 -0000</pubDate>
+            <description>5.public.Buraka_Som_Sistema_-_IC19</description>
+        </item>
+        
+        <item>
+            <title>3.layo_and_bushwacka_-_love_story_-_tim_deluxe_remix</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/music/3.layo_and_bushwacka_-_love_story_-_tim_deluxe_remix.mp3" length="3983639" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/music/3.layo_and_bushwacka_-_love_story_-_tim_deluxe_remix.mp3</guid>
+            <pubDate>Fri, 23 Jan 2026 10:48:00 -0000</pubDate>
+            <description>3.layo_and_bushwacka_-_love_story_-_tim_deluxe_remix</description>
+        </item>
+        
+        <item>
+            <title>2.Iggy_Azalea_-_Work</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/music/2.Iggy_Azalea_-_Work.mp3" length="3644637" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/music/2.Iggy_Azalea_-_Work.mp3</guid>
+            <pubDate>Fri, 23 Jan 2026 10:48:00 -0000</pubDate>
+            <description>2.Iggy_Azalea_-_Work</description>
+        </item>
+        
+        <item>
+            <title>Learn_Spanish_in_35_minutes_The_100_everyday_Spanish_sentences_you_need_to_know</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/Spanish_Lessons/Learn_Spanish_in_35_minutes_The_100_everyday_Spanish_sentences_you_need_to_know.mp3" length="37728453" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/Spanish_Lessons/Learn_Spanish_in_35_minutes_The_100_everyday_Spanish_sentences_you_need_to_know.mp3</guid>
+            <pubDate>Tue, 12 May 2026 09:54:29 -0000</pubDate>
+            <description>Learn_Spanish_in_35_minutes_The_100_everyday_Spanish_sentences_you_need_to_know</description>
+        </item>
+        
+        <item>
+            <title>Learn_Spanish_On-the-Go_1-Hour_Conversation_Audio_Course_with_English</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/Spanish_Lessons/Learn_Spanish_On-the-Go_1-Hour_Conversation_Audio_Course_with_English.mp3" length="66120813" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/Spanish_Lessons/Learn_Spanish_On-the-Go_1-Hour_Conversation_Audio_Course_with_English.mp3</guid>
+            <pubDate>Tue, 12 May 2026 09:53:41 -0000</pubDate>
+            <description>Learn_Spanish_On-the-Go_1-Hour_Conversation_Audio_Course_with_English</description>
+        </item>
+        
+        <item>
+            <title>FREE_SPANISH_COURSE_FOR_BEGINNERS_A1_4_HOURS_OF_LESSONS_Part_4</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/Spanish_Lessons/FREE_SPANISH_COURSE_FOR_BEGINNERS_A1_4_HOURS_OF_LESSONS_Part_4.mp3" length="99558453" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/Spanish_Lessons/FREE_SPANISH_COURSE_FOR_BEGINNERS_A1_4_HOURS_OF_LESSONS_Part_4.mp3</guid>
+            <pubDate>Tue, 12 May 2026 10:49:49 -0000</pubDate>
+            <description>FREE_SPANISH_COURSE_FOR_BEGINNERS_A1_4_HOURS_OF_LESSONS_Part_4</description>
+        </item>
+        
+        <item>
+            <title>FREE_SPANISH_COURSE_FOR_BEGINNERS_A1_4_HOURS_OF_LESSONS_Part_3</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/Spanish_Lessons/FREE_SPANISH_COURSE_FOR_BEGINNERS_A1_4_HOURS_OF_LESSONS_Part_3.mp3" length="102475533" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/Spanish_Lessons/FREE_SPANISH_COURSE_FOR_BEGINNERS_A1_4_HOURS_OF_LESSONS_Part_3.mp3</guid>
+            <pubDate>Tue, 12 May 2026 10:49:46 -0000</pubDate>
+            <description>FREE_SPANISH_COURSE_FOR_BEGINNERS_A1_4_HOURS_OF_LESSONS_Part_3</description>
+        </item>
+        
+        <item>
+            <title>FREE_SPANISH_COURSE_FOR_BEGINNERS_A1_4_HOURS_OF_LESSONS_Part_2</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/Spanish_Lessons/FREE_SPANISH_COURSE_FOR_BEGINNERS_A1_4_HOURS_OF_LESSONS_Part_2.mp3" length="101347029" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/Spanish_Lessons/FREE_SPANISH_COURSE_FOR_BEGINNERS_A1_4_HOURS_OF_LESSONS_Part_2.mp3</guid>
+            <pubDate>Tue, 12 May 2026 10:49:44 -0000</pubDate>
+            <description>FREE_SPANISH_COURSE_FOR_BEGINNERS_A1_4_HOURS_OF_LESSONS_Part_2</description>
+        </item>
+        
+        <item>
+            <title>FREE_SPANISH_COURSE_FOR_BEGINNERS_A1_4_HOURS_OF_LESSONS_Part_1</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/Spanish_Lessons/FREE_SPANISH_COURSE_FOR_BEGINNERS_A1_4_HOURS_OF_LESSONS_Part_1.mp3" length="101868453" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/Spanish_Lessons/FREE_SPANISH_COURSE_FOR_BEGINNERS_A1_4_HOURS_OF_LESSONS_Part_1.mp3</guid>
+            <pubDate>Tue, 12 May 2026 10:49:43 -0000</pubDate>
+            <description>FREE_SPANISH_COURSE_FOR_BEGINNERS_A1_4_HOURS_OF_LESSONS_Part_1</description>
+        </item>
+        
+        <item>
+            <title>Sobreiro_part2</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/others/Sobreiro_part2.mp3" length="67188647" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/others/Sobreiro_part2.mp3</guid>
+            <pubDate>Tue, 12 May 2026 11:01:46 -0000</pubDate>
+            <description>Sobreiro_part2</description>
+        </item>
+        
+        <item>
+            <title>Sobreiro_part1</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/others/Sobreiro_part1.mp3" length="67006972" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/others/Sobreiro_part1.mp3</guid>
+            <pubDate>Tue, 12 May 2026 11:01:46 -0000</pubDate>
+            <description>Sobreiro_part1</description>
+        </item>
+        
+        <item>
+            <title>1.bitcoinwhitepaper</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/others/1.bitcoinwhitepaper.mp3" length="17934284" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/others/1.bitcoinwhitepaper.mp3</guid>
+            <pubDate>Fri, 23 Jan 2026 10:48:00 -0000</pubDate>
+            <description>1.bitcoinwhitepaper</description>
+        </item>
+        
+        <item>
             <title>Yale-gametheory</title>
             <enclosure url="https://nleitao.github.io/internal_podcast/public/courses/Yale-gametheory.mp3" length="37190757" type="audio/mpeg"/>
             <guid>https://nleitao.github.io/internal_podcast/public/courses/Yale-gametheory.mp3</guid>
@@ -166,30 +238,6 @@
             <guid>https://nleitao.github.io/internal_podcast/public/courses/2.How_to_Speak-MIT-PatrickWinston.mp3</guid>
             <pubDate>Fri, 23 Jan 2026 10:48:00 -0000</pubDate>
             <description>2.How_to_Speak-MIT-PatrickWinston</description>
-        </item>
-        
-        <item>
-            <title>Sobreiro_part2</title>
-            <enclosure url="https://nleitao.github.io/internal_podcast/public/others/Sobreiro_part2.mp3" length="67188647" type="audio/mpeg"/>
-            <guid>https://nleitao.github.io/internal_podcast/public/others/Sobreiro_part2.mp3</guid>
-            <pubDate>Fri, 23 Jan 2026 10:50:55 -0000</pubDate>
-            <description>Sobreiro_part2</description>
-        </item>
-        
-        <item>
-            <title>Sobreiro_part1</title>
-            <enclosure url="https://nleitao.github.io/internal_podcast/public/others/Sobreiro_part1.mp3" length="67006972" type="audio/mpeg"/>
-            <guid>https://nleitao.github.io/internal_podcast/public/others/Sobreiro_part1.mp3</guid>
-            <pubDate>Fri, 23 Jan 2026 10:50:13 -0000</pubDate>
-            <description>Sobreiro_part1</description>
-        </item>
-        
-        <item>
-            <title>1.bitcoinwhitepaper</title>
-            <enclosure url="https://nleitao.github.io/internal_podcast/public/others/1.bitcoinwhitepaper.mp3" length="17934284" type="audio/mpeg"/>
-            <guid>https://nleitao.github.io/internal_podcast/public/others/1.bitcoinwhitepaper.mp3</guid>
-            <pubDate>Fri, 23 Jan 2026 10:48:00 -0000</pubDate>
-            <description>1.bitcoinwhitepaper</description>
         </item>
         
 </channel>
