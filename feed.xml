@@ -5,7 +5,7 @@
     <link>https://nleitao.github.io/internal_podcast/public/</link>
     <description>My personal podcast feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 May 2026 11:01:51 -0000 </lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 18:16:39 -0000 </lastBuildDate>
     <managingEditor>your@email.com (Your Name)</managingEditor>
     
         <item>
@@ -206,6 +206,14 @@
             <guid>https://nleitao.github.io/internal_podcast/public/others/Sobreiro_part1.mp3</guid>
             <pubDate>Tue, 12 May 2026 11:01:46 -0000</pubDate>
             <description>Sobreiro_part1</description>
+        </item>
+        
+        <item>
+            <title>Couch_Talk_-_Inside_PR_What_Worked_What_Didnt__Full_Year_Review_and_Live_QA</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/others/Couch_Talk_-_Inside_PR_What_Worked_What_Didnt__Full_Year_Review_and_Live_QA.mp3" length="75264765" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/others/Couch_Talk_-_Inside_PR_What_Worked_What_Didnt__Full_Year_Review_and_Live_QA.mp3</guid>
+            <pubDate>Wed, 13 May 2026 18:12:30 -0000</pubDate>
+            <description>Couch_Talk_-_Inside_PR_What_Worked_What_Didnt__Full_Year_Review_and_Live_QA</description>
         </item>
         
         <item>

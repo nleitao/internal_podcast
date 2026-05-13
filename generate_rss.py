@@ -1,5 +1,6 @@
 import os
 import re
+from html import escape
 from email.utils import formatdate
 
 # CONFIGURATION
@@ -50,14 +51,15 @@ for root, dirs, files in os.walk(AUDIO_ROOT):
             pub_date = formatdate(pub_date)
             # Use original filename for title if available
             title = os.path.splitext(original_to_safe.get(rel_path, fname))[0]
+            xml_title = escape(title)
             enclosure_url = BASE_URL + rel_path.replace("\\", "/")
             item = f"""
         <item>
-            <title>{title}</title>
+            <title>{xml_title}</title>
             <enclosure url=\"{enclosure_url}\" length=\"{size}\" type=\"audio/mpeg\"/>
             <guid>{enclosure_url}</guid>
             <pubDate>{pub_date}</pubDate>
-            <description>{title}</description>
+            <description>{xml_title}</description>
         </item>
         """
             items.append(item)
