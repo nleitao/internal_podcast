@@ -5,7 +5,7 @@
     <link>https://nleitao.github.io/internal_podcast/public/</link>
     <description>My personal podcast feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 May 2026 18:16:39 -0000 </lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 11:31:30 -0000 </lastBuildDate>
     <managingEditor>your@email.com (Your Name)</managingEditor>
     
         <item>
@@ -118,6 +118,54 @@
             <guid>https://nleitao.github.io/internal_podcast/public/jocko_psy_war/1._Wake_up_and_Get_After_It-VS18QVQqApQ.mp3</guid>
             <pubDate>Fri, 23 Jan 2026 10:48:00 -0000</pubDate>
             <description>1._Wake_up_and_Get_After_It-VS18QVQqApQ</description>
+        </item>
+        
+        <item>
+            <title>The Prodigy - Smack My Bitch Up (HD) LIVE @ Rock am Ring 2009</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/music/The_Prodigy_-_Smack_My_Bitch_Up_HD_LIVE__Rock_am_Ring_2009.mp3" length="9707205" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/music/The_Prodigy_-_Smack_My_Bitch_Up_HD_LIVE__Rock_am_Ring_2009.mp3</guid>
+            <pubDate>Tue, 19 May 2026 11:19:28 -0000</pubDate>
+            <description>The Prodigy - Smack My Bitch Up (HD) LIVE @ Rock am Ring 2009</description>
+        </item>
+        
+        <item>
+            <title>The Prodigy - Breathe (HD) LIVE @ Rock am Ring 2009</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/music/The_Prodigy_-_Breathe_HD_LIVE__Rock_am_Ring_2009.mp3" length="9331821" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/music/The_Prodigy_-_Breathe_HD_LIVE__Rock_am_Ring_2009.mp3</guid>
+            <pubDate>Tue, 19 May 2026 11:19:17 -0000</pubDate>
+            <description>The Prodigy - Breathe (HD) LIVE @ Rock am Ring 2009</description>
+        </item>
+        
+        <item>
+            <title>SYSTEM OF A DOWN ｜ 18 MINUTES THAT DO NOT FORGET</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/music/SYSTEM_OF_A_DOWN__18_MINUTES_THAT_DO_NOT_FORGET.mp3" length="41948445" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/music/SYSTEM_OF_A_DOWN__18_MINUTES_THAT_DO_NOT_FORGET.mp3</guid>
+            <pubDate>Tue, 19 May 2026 11:20:07 -0000</pubDate>
+            <description>SYSTEM OF A DOWN ｜ 18 MINUTES THAT DO NOT FORGET</description>
+        </item>
+        
+        <item>
+            <title>Limp Bizkit - Take a look around [HD] [Live@MTV Rock am Ring 2009]</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/music/Limp_Bizkit_-_Take_a_look_around_HD_LiveMTV_Rock_am_Ring_2009.mp3" length="12600597" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/music/Limp_Bizkit_-_Take_a_look_around_HD_LiveMTV_Rock_am_Ring_2009.mp3</guid>
+            <pubDate>Tue, 19 May 2026 11:19:38 -0000</pubDate>
+            <description>Limp Bizkit - Take a look around [HD] [Live@MTV Rock am Ring 2009]</description>
+        </item>
+        
+        <item>
+            <title>Limp Bizkit - Break Stuff ｜ Live at Woodstock 99</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/music/Limp_Bizkit_-_Break_Stuff__Live_at_Woodstock_99.mp3" length="5164293" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/music/Limp_Bizkit_-_Break_Stuff__Live_at_Woodstock_99.mp3</guid>
+            <pubDate>Tue, 19 May 2026 11:19:50 -0000</pubDate>
+            <description>Limp Bizkit - Break Stuff ｜ Live at Woodstock 99</description>
+        </item>
+        
+        <item>
+            <title>Faithless - Insomnia (Live from T in the Park, 2010)</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/music/Faithless_-_Insomnia_Live_from_T_in_the_Park_2010.mp3" length="10163013" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/music/Faithless_-_Insomnia_Live_from_T_in_the_Park_2010.mp3</guid>
+            <pubDate>Tue, 19 May 2026 11:19:56 -0000</pubDate>
+            <description>Faithless - Insomnia (Live from T in the Park, 2010)</description>
         </item>
         
         <item>
