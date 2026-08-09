@@ -5,7 +5,7 @@
     <link>https://nleitao.github.io/internal_podcast/public/</link>
     <description>My personal podcast feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 10:06:57 -0000 </lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 15:30:51 -0000 </lastBuildDate>
     <managingEditor>your@email.com (Your Name)</managingEditor>
     
         <item>
@@ -254,6 +254,14 @@
             <guid>https://nleitao.github.io/internal_podcast/public/others/Sobreiro_part1.mp3</guid>
             <pubDate>Tue, 12 May 2026 11:01:46 -0000</pubDate>
             <description>Sobreiro_part1</description>
+        </item>
+        
+        <item>
+            <title>How Hardware Startups Should Finance Growth [utrOtbXzn1E]</title>
+            <enclosure url="https://nleitao.github.io/internal_podcast/public/others/How_Hardware_Startups_Should_Finance_Growth_utrOtbXzn1E.mp3" length="32313923" type="audio/mpeg"/>
+            <guid>https://nleitao.github.io/internal_podcast/public/others/How_Hardware_Startups_Should_Finance_Growth_utrOtbXzn1E.mp3</guid>
+            <pubDate>Sun, 09 Aug 2026 15:28:40 -0000</pubDate>
+            <description>How Hardware Startups Should Finance Growth [utrOtbXzn1E]</description>
         </item>
         
         <item>
