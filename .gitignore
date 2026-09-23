@@ -1,0 +1,2 @@
+# Keep large audiobook originals locally; publish the split MP3 episodes.
+/public/audiobooks/*.m4b

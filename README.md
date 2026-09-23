@@ -22,6 +22,20 @@
      ```
    - E já está! (That's it!)
 
+## Audiobooks
+
+The feed generator accepts MP3 files. Convert M4B audiobooks to MP3 and split
+them at chapter boundaries before generating the feed. Keep the original M4B
+locally; originals in `public/audiobooks/` are ignored by Git.
+
+[Dungeon Crawler Carl, Book 1](public/audiobooks/README.md) is available as 16
+numbered episodes, approximately 40–60 minutes each. They use 96 kbps stereo MP3
+at 44.1 kHz, with each file under 50 MiB. Listen from Part 01 through Part 16;
+select oldest first when sorting by publication date.
+
+After adding the converted episodes, run `python3 generate_rss.py` and commit
+the MP3 files and updated `feed.xml`.
+
 ## SPLIT BIG FILE INTO 2
    
 1) Check the duration of the MP3

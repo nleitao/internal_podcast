@@ -1,5 +1,6 @@
 import os
 import re
+import xml.etree.ElementTree as ET
 from html import escape
 from email.utils import formatdate
 
@@ -12,6 +13,12 @@ DESCRIPTION = "My personal podcast feed"
 EMAIL = "your@email.com"
 OUTPUT = "feed.xml"  # Output to root folder
 AUDIO_ROOT = "public"
+
+# Preserve display titles after their original filenames have been sanitized.
+existing_titles = {}
+if os.path.exists(OUTPUT):
+    for item in ET.parse(OUTPUT).findall("./channel/item"):
+        existing_titles[item.findtext("guid")] = item.findtext("title")
 
 # Helper to create a safe filename
 SAFE_CHARS = re.compile(r'[^A-Za-z0-9._-]')
@@ -49,10 +56,10 @@ for root, dirs, files in os.walk(AUDIO_ROOT):
             file_path = os.path.join(root, fname)
             pub_date, size = os.stat(file_path).st_mtime, os.stat(file_path).st_size
             pub_date = formatdate(pub_date)
-            # Use original filename for title if available
-            title = os.path.splitext(original_to_safe.get(rel_path, fname))[0]
-            xml_title = escape(title)
             enclosure_url = BASE_URL + rel_path.replace("\\", "/")
+            # Keep published titles stable across subsequent feed generations.
+            title = existing_titles.get(enclosure_url) or os.path.splitext(original_to_safe.get(rel_path, fname))[0]
+            xml_title = escape(title)
             item = f"""
         <item>
             <title>{xml_title}</title>
